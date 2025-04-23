@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\AdvantLClicker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6B3CA0-7840-C562-3FA1-359922F24DF5}|Assembly-CSharp.csproj|c:\\advantlclicker\\assets\\ui\\playerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6B3CA0-7840-C562-3FA1-359922F24DF5}|Assembly-CSharp.csproj|solutionrelative:assets\\ui\\playerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6B3CA0-7840-C562-3FA1-359922F24DF5}|Assembly-CSharp.csproj|C:\\AdvantLClicker\\assets\\scripts\\systems\\businesssystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6B3CA0-7840-C562-3FA1-359922F24DF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systems\\businesssystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6B3CA0-7840-C562-3FA1-359922F24DF5}|Assembly-CSharp.csproj|C:\\AdvantLClicker\\assets\\ui\\businessuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6B3CA0-7840-C562-3FA1-359922F24DF5}|Assembly-CSharp.csproj|solutionrelative:assets\\ui\\businessuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6B3CA0-7840-C562-3FA1-359922F24DF5}|Assembly-CSharp.csproj|c:\\advantlclicker\\assets\\scripts\\initialization\\gameinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6B3CA0-7840-C562-3FA1-359922F24DF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\initialization\\gameinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6B3CA0-7840-C562-3FA1-359922F24DF5}|Assembly-CSharp.csproj|C:\\AdvantLClicker\\assets\\scripts\\configs\\businessconfigso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6B3CA0-7840-C562-3FA1-359922F24DF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\configs\\businessconfigso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6B3CA0-7840-C562-3FA1-359922F24DF5}|Assembly-CSharp.csproj|C:\\AdvantLClicker\\assets\\scripts\\ui\\businessmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6B3CA0-7840-C562-3FA1-359922F24DF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\businessmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6B3CA0-7840-C562-3FA1-359922F24DF5}|Assembly-CSharp.csproj|C:\\AdvantLClicker\\assets\\scripts\\systems\\purchasesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6B3CA0-7840-C562-3FA1-359922F24DF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systems\\purchasesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6B3CA0-7840-C562-3FA1-359922F24DF5}|Assembly-CSharp.csproj|C:\\AdvantLClicker\\assets\\ui\\playeruicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6B3CA0-7840-C562-3FA1-359922F24DF5}|Assembly-CSharp.csproj|solutionrelative:assets\\ui\\playeruicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6B3CA0-7840-C562-3FA1-359922F24DF5}|Assembly-CSharp.csproj|C:\\AdvantLClicker\\assets\\scripts\\systems\\loadsavesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6B3CA0-7840-C562-3FA1-359922F24DF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systems\\loadsavesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6B3CA0-7840-C562-3FA1-359922F24DF5}|Assembly-CSharp.csproj|C:\\AdvantLClicker\\assets\\scripts\\components\\ref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6B3CA0-7840-C562-3FA1-359922F24DF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\components\\ref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6B3CA0-7840-C562-3FA1-359922F24DF5}|Assembly-CSharp.csproj|C:\\AdvantLClicker\\assets\\scripts\\components\\businesscomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6B3CA0-7840-C562-3FA1-359922F24DF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\components\\businesscomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6B3CA0-7840-C562-3FA1-359922F24DF5}|Assembly-CSharp.csproj|C:\\AdvantLClicker\\assets\\scripts\\components\\playercomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6B3CA0-7840-C562-3FA1-359922F24DF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\components\\playercomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6B3CA0-7840-C562-3FA1-359922F24DF5}|Assembly-CSharp.csproj|C:\\AdvantLClicker\\assets\\scripts\\configs\\improvementconfigso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6B3CA0-7840-C562-3FA1-359922F24DF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\configs\\improvementconfigso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6B3CA0-7840-C562-3FA1-359922F24DF5}|Assembly-CSharp.csproj|C:\\AdvantLClicker\\assets\\scripts\\configs\\businessnamesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6B3CA0-7840-C562-3FA1-359922F24DF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\configs\\businessnamesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerUI.cs",
+              "DocumentMoniker": "C:\\AdvantLClicker\\Assets\\UI\\PlayerUI.cs",
+              "RelativeDocumentMoniker": "Assets\\UI\\PlayerUI.cs",
+              "ToolTip": "C:\\AdvantLClicker\\Assets\\UI\\PlayerUI.cs",
+              "RelativeToolTip": "Assets\\UI\\PlayerUI.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAACEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T14:13:40.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BusinessManager.cs",
+              "DocumentMoniker": "C:\\AdvantLClicker\\Assets\\Scripts\\UI\\BusinessManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\BusinessManager.cs",
+              "ToolTip": "C:\\AdvantLClicker\\Assets\\Scripts\\UI\\BusinessManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\BusinessManager.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAACQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T13:49:45.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameInitializer.cs",
+              "DocumentMoniker": "C:\\AdvantLClicker\\Assets\\Scripts\\Initialization\\GameInitializer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Initialization\\GameInitializer.cs",
+              "ToolTip": "C:\\AdvantLClicker\\Assets\\Scripts\\Initialization\\GameInitializer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Initialization\\GameInitializer.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAIIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T12:29:54.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoadSaveSystem.cs",
+              "DocumentMoniker": "C:\\AdvantLClicker\\Assets\\Scripts\\Systems\\LoadSaveSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\LoadSaveSystem.cs",
+              "ToolTip": "C:\\AdvantLClicker\\Assets\\Scripts\\Systems\\LoadSaveSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Systems\\LoadSaveSystem.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T12:27:52.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PurchaseSystem.cs",
+              "DocumentMoniker": "C:\\AdvantLClicker\\Assets\\Scripts\\Systems\\PurchaseSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\PurchaseSystem.cs",
+              "ToolTip": "C:\\AdvantLClicker\\Assets\\Scripts\\Systems\\PurchaseSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Systems\\PurchaseSystem.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAAGUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T12:27:30.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BusinessSystem.cs",
+              "DocumentMoniker": "C:\\AdvantLClicker\\Assets\\Scripts\\Systems\\BusinessSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\BusinessSystem.cs",
+              "ToolTip": "C:\\AdvantLClicker\\Assets\\Scripts\\Systems\\BusinessSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Systems\\BusinessSystem.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAADYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T12:24:05.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ref.cs",
+              "DocumentMoniker": "C:\\AdvantLClicker\\Assets\\Scripts\\Components\\Ref.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Components\\Ref.cs",
+              "ToolTip": "C:\\AdvantLClicker\\Assets\\Scripts\\Components\\Ref.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Components\\Ref.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T12:22:17.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BusinessComponent.cs",
+              "DocumentMoniker": "C:\\AdvantLClicker\\Assets\\Scripts\\Components\\BusinessComponent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Components\\BusinessComponent.cs",
+              "ToolTip": "C:\\AdvantLClicker\\Assets\\Scripts\\Components\\BusinessComponent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Components\\BusinessComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T12:21:35.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayerComponent.cs",
+              "DocumentMoniker": "C:\\AdvantLClicker\\Assets\\Scripts\\Components\\PlayerComponent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Components\\PlayerComponent.cs",
+              "ToolTip": "C:\\AdvantLClicker\\Assets\\Scripts\\Components\\PlayerComponent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Components\\PlayerComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T12:17:22.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BusinessConfigSO.cs",
+              "DocumentMoniker": "C:\\AdvantLClicker\\Assets\\Scripts\\Configs\\BusinessConfigSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Configs\\BusinessConfigSO.cs",
+              "ToolTip": "C:\\AdvantLClicker\\Assets\\Scripts\\Configs\\BusinessConfigSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Configs\\BusinessConfigSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T11:55:02.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BusinessUIController.cs",
+              "DocumentMoniker": "C:\\AdvantLClicker\\Assets\\UI\\BusinessUIController.cs",
+              "RelativeDocumentMoniker": "Assets\\UI\\BusinessUIController.cs",
+              "ToolTip": "C:\\AdvantLClicker\\Assets\\UI\\BusinessUIController.cs",
+              "RelativeToolTip": "Assets\\UI\\BusinessUIController.cs",
+              "ViewState": "AQIAAN0AAAAAAAAAAAAAAPYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T13:17:21.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerUIController.cs",
+              "DocumentMoniker": "C:\\AdvantLClicker\\Assets\\UI\\PlayerUIController.cs",
+              "RelativeDocumentMoniker": "Assets\\UI\\PlayerUIController.cs",
+              "ToolTip": "C:\\AdvantLClicker\\Assets\\UI\\PlayerUIController.cs",
+              "RelativeToolTip": "Assets\\UI\\PlayerUIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T12:36:54.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BusinessNamesSO.cs",
+              "DocumentMoniker": "C:\\AdvantLClicker\\Assets\\Scripts\\Configs\\BusinessNamesSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Configs\\BusinessNamesSO.cs",
+              "ToolTip": "C:\\AdvantLClicker\\Assets\\Scripts\\Configs\\BusinessNamesSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Configs\\BusinessNamesSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T11:58:21.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ImprovementConfigSO.cs",
+              "DocumentMoniker": "C:\\AdvantLClicker\\Assets\\Scripts\\Configs\\ImprovementConfigSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Configs\\ImprovementConfigSO.cs",
+              "ToolTip": "C:\\AdvantLClicker\\Assets\\Scripts\\Configs\\ImprovementConfigSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Configs\\ImprovementConfigSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T11:57:19.713Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
